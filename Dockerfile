@@ -1,5 +1,5 @@
 # getting base image alpine
-FROM alpine
+FROM ifx-dotnet
 
 MAINTAINER Chris Rümmelein <ChrisNico.Ruemmelein@infineon.com>
 
